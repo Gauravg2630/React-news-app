@@ -92,8 +92,7 @@ npm start
  Dark Mode Toggle
 
 🔗 Live Demo
-Deploy the frontend on Netlify/Vercel, backend on Render/Glitch/Heroku
-Add live URL here when ready
+(https://news-api-frontend.netlify.app/)
 
 📬 Connect With Me
 💼 LinkedIn : https://www.linkedin.com/in/gorav-gumber-9319a2342/
